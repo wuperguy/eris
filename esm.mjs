@@ -12,8 +12,6 @@ export const {
   Channel,
   Client,
   Collection,
-  Command,
-  CommandClient,
   Constants,
   DiscordHTTPError,
   DiscordRESTError,
@@ -21,7 +19,6 @@ export const {
   GroupChannel,
   Guild,
   GuildChannel,
-  GuildIntegration,
   GuildPreview,
   Invite,
   Member,
@@ -30,7 +27,6 @@ export const {
   Permission,
   PermissionOverwrite,
   PrivateChannel,
-  Relationship,
   RequestHandler,
   Role,
   SequentialBucket,
@@ -41,8 +37,4 @@ export const {
   UnavailableGuild,
   User,
   VERSION,
-  VoiceChannel,
-  VoiceConnection,
-  VoiceConnectionManager,
-  VoiceState
 } = Eris;
